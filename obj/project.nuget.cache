@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/x/VHjE6qnMy+fihawFqKJqMOqOGNEHzCLlfzPjMD6cF9Pa+tVzxva58SeumjJsr0Wn+KbU6J7bcj/izbPLKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nukxkubi\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Vacuous\\Vacuous.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nukxkubi\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

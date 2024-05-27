@@ -1,0 +1,3 @@
+displayName = Vacuous Mod
+author = nukxkubi.
+version = 0.1
